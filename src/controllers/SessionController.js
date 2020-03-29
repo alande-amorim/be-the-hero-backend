@@ -11,6 +11,6 @@ module.exports = {
       });
     }
 
-    return response.json({ id });
+    return response.json(me);
   }
 }

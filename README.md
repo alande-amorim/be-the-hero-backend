@@ -4,14 +4,14 @@
 </h1>
 
 ## Contents
-* [Semana OmniStack 11.0](semana-omnistack-11.0)
-* [The Project](the-project)
-* [This repo](this-repo)
-  * [Techs]()
-  * [Requirements]()
-  * [Download & Installation]()
-  * [Running]()
-  * [Exposed API endpoints]()
+* [Semana OmniStack 11.0](#semana-omnistack-11.0)
+* [The Project](#the-project)
+* [This repo](#this-repo)
+  * [Techs](#techs)
+  * [Requirements](#requirements)
+  * [Download & Installation](#download-&-installation)
+  * [Running](#running)
+  * [Exposed API endpoints](#exposed-api-endpoints)
 * [Web App](https://github.com/alande-amorim/be-the-hero-web)
 * [Mobile App](https://github.com/alande-amorim/be-the-hero-mobile)
 

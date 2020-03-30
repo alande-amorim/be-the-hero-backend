@@ -6,6 +6,12 @@ module.exports = {
     const id = request.headers.authorization;
 
     const me = await connection('ongs').select('*').where({id}).first();
+    if(!me) {
+      return response.status(401).json({
+        success: false,
+        error: 'Operation not allowed'
+      });
+    }
     me.incidents = await connection('incidents').select('*').where('ong_id', id);
 
     return response.json(me);

@@ -9,7 +9,7 @@
 * [This repo](#this-repo)
   * [Techs](#techs)
   * [Requirements](#requirements)
-  * [Download & Installation](#download-&-installation)
+  * [Download & Installation](#download---installation)
   * [Running](#running)
   * [Exposed API endpoints](#exposed-api-endpoints)
 * [Web App](https://github.com/alande-amorim/be-the-hero-web)
